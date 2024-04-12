@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rainier.CardDefinitionFetcher", "Rainier.CardDefinitionFetcher\Rainier.CardDefinitionFetcher.csproj", "{FE80BA21-2C09-4A58-890A-B5F56F9EB8BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Omukade.RainierCardDefinitionFetcher", "Omukade.RainierCardDefinitionFetcher\Omukade.RainierCardDefinitionFetcher.csproj", "{FE80BA21-2C09-4A58-890A-B5F56F9EB8BB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4DE3200F-B7F3-4676-A368-B09C9F30D1BD}"
 	ProjectSection(SolutionItems) = preProject
